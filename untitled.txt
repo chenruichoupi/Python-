@@ -1,0 +1,5 @@
+git pull git@github.com:chenruichoupi/Python-.git
+git remote rm origin
+git add .
+git commit -m '本地代码提交'
+git push --set-upstream git@github.com:chenruichoupi/Python-.git main
